@@ -1,0 +1,33 @@
+<resources>
+    <declare-styleable name="ViewPagerIndex">
+
+        <attr name="vCirclePageIndexStyle" format="reference"/>
+    </declare-styleable>
+
+    <attr name="centered" format="boolean" />
+    <attr name="selectedColor" format="color" />
+    <attr name="strokeWidth" format="dimension" />
+    <attr name="unselectedColor" format="color" />
+
+    <declare-styleable name="CirclePageIndex">
+
+        <attr name="centered" />
+
+        <attr name="fillColor" format="color" />
+
+        <attr name="pageColor" format="color" />
+
+        <attr name="android:orientation"/>
+
+        <attr name="radius" format="dimension" />
+
+        <attr name="android:background"/>
+    </declare-styleable>
+
+
+
+
+
+</resources>
+
+
